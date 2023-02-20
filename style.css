@@ -1,0 +1,157 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+
+}
+
+header {
+  background-color: brown;
+  color: black;
+  min-height: 60px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.headsx {
+  height: 40px;
+  width: 20%;
+  background-color: orange;
+  text-align: left;
+  line-height: 40px;
+}
+.head2 {
+  height: 40px;
+  width: 40%;
+  background-color: orange;
+  text-align: center;
+  line-height: 40px;
+}
+.headx {
+  height: 40px;
+  width: 20%;
+  background-color: orange;
+  text-align: right;
+  line-height: 40px;
+}
+.main1{
+  background-color: blue;
+  min-height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fucsia {
+  height: 400px;
+  width: 50%;
+  background-color:fuchsia;
+}
+
+.main2{
+  background-color: white;
+  min-height: 630px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.azzurro {
+  min-height: 500px;
+  background-color:lightskyblue;
+  width: 40%;
+  border: 1px solid black;
+}
+.rosa {
+  min-height: 500px;
+  display: flex;
+  background-color:pink;
+  width: 30%;
+  border: 1px solid black;
+}
+.main3{
+  background-color: lightgray;
+  min-height: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main4{
+  background-color: grey;
+  min-height: 1030px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.verde {
+  min-height: 915px;
+  display: flex;
+  background-color:green;
+  width: 70%;
+  border: 1px solid black;
+}
+.main5{
+  background-color: black;
+  min-height: 650px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.salmone {
+  min-height: 590px;
+  display: flex;
+  background-color:salmon;
+  width: 20%;
+}
+.aqua {
+  min-height: 590px;
+  display: flex;
+  background-color:aquamarine;
+  width: 20%;
+  border: 1px solid black;
+}
+.linea {
+  border-color: lightgray;
+}
+
+footer {
+  background-color: black;
+  min-height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.foot {
+  min-height: 30px;
+  display: flex;
+  justify-content: space-between;
+  background-color:aqua;
+  width: 70%;
+  border: 1px solid black;
+}
+.log {
+  min-height: 5px;
+  min-width: 40px;
+  background-color: salmon;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.bott {
+
+    min-height: 5px;
+    min-width: 40px;
+    background-color: salmon;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  
+}
